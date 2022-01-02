@@ -11,18 +11,21 @@ IOTA: iota1qr7y8xh6ghfltveurd47jmd86yzad7c49w9xq23vn0fypayfdcat65dmhjp
 BTC:
 14hgKEmbNiZfZ4AYYPJsqDRwpYJL7iXcqy
 
+![Waage](https://user-images.githubusercontent.com/96875239/147881062-44aa6195-d558-4f8a-86ed-1cd874d2f762.jpg)
 
 
+   Patentanmeldung
+   
+  1. Figurenaufzählung
 
-
-Patentanmeldung
-1. Figurenaufzählung
 Figur 1 zeigt das erfundene Wägeprinzip in Form eines Kräfteplans
 Figur 2: Ausführungsmöglichkeit des Wägeprinzips als Plattformwaage in 3D
 Ansicht
 Figur 3: Ausführungsmöglichkeit des Wägeprinzips als Plattformwaage in
 Seitenansicht
-2. Legenden zu den Figuren:
+
+  2. Legenden zu den Figuren:
+  
 Legende Fig. 1:
 F 1 , F 2 : Auflasten
 WB: Wägebalken
