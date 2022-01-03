@@ -2,7 +2,7 @@
 
 Weighing principle for heavy loads 
 
-A platform scale for heavy loads. Shown in this version as a beehive scale. This scale has been provisionally patented and is available for purchase.
+A platform scale for heavy loads. Shown in this version as a beehive scale. This scale has been provisionally patented (till end 17.03.2022) and is available for purchase.
 
 If you are a private user and like the idea, you can support me with a donation via Crypto:
 
